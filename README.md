@@ -7,6 +7,9 @@ Currently a Research Fellow at the University of New South Wales, focused on pre
 
 🌐 [Personal blog](https://oisinf.quarto.pub/notes/)
 
+## 🔭 Currently working on
+- Assessing the performance of prediction models in a competing risks (multiple outcomes, time-to-event) setting, see related [blog](https://oisinf.quarto.pub/notes/posts/discrimination-competing-risks/) [posts](https://oisinf.quarto.pub/notes/posts/discrimination-competing-risks-functions/)
+
 ## 🔬 Research interests
 `Predictive modelling` `Causal inference` `Time series` `Interpretability` `Bayesian methods`
 
